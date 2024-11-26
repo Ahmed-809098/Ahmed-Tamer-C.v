@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ahmed Tamer - CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            background: #f4f4f4;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        section {
+            margin: 20px;
+            padding: 10px;
+        }
+        .section-header {
+            border-bottom: 2px solid #333;
+            margin-bottom: 10px;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            margin: 5px 0;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ahmed Tamer</h1>
+        <p>F&B Specialist | Concept Creator</p>
+        <p>Cairo, Egypt</p>
+    </header>
+
+    <section>
+        <h2 class="section-header">Contact Information</h2>
+        <ul>
+            <li><strong>Phone:</strong> +201120428807</li>
+            <li><strong>Email:</strong> ahmed.tamer@gmail.com</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2 class="section-header">Career Summary</h2>
+        <p>
+            Hospitality professional with more than 7 years of experience in Food and Beverage operations. 
+            Proficient in budget planning, forecasting, sales & marketing, training, development, and culinary events. 
+            Experienced in fine dining restaurants, cafes, nightclubs, and catering with the ability to perform in high-stress conditions while maintaining professionalism.
+        </p>
+    </section>
+
+    <section>
+        <h2 class="section-header">Employment History</h2>
+        <h3>Concept Creator/F&B Specialist</h3>
+        <p><em>International Company for Touristic Projects (Maxim Restaurants Group) | Nov 2022 - Present</em></p>
+        <ul>
+            <li>Building new organizational charts and responsibilities.</li>
+            <li>Opening a new Asian seafood concept ("Catchy").</li>
+            <li>Contracting hygiene company RSI Co.</li>
+            <li>Providing and selecting OS&E for the boat and Pub 28 concept.</li>
+            <li>Reintroducing Maxim Restaurants to the market.</li>
+            <li>Collaborating with a marketing agency for social media management.</li>
+        </ul>
+
+        <h3>F&B Specialist/Admin Owner</h3>
+        <p><em>M Restaurant by Chef El-Khaldy | Sep 2021 - Oct 2022</em></p>
+        <ul>
+            <li>Led all aspects of F&B pre-opening for 40 staff members.</li>
+            <li>Developed food styling and menu selections.</li>
+            <li>Designed full FB pickup charts and managed service delivery.</li>
+            <li>Implemented wedding concepts and innovative F&B ideas.</li>
+        </ul>
+
+        <h3>Concept Creator</h3>
+        <p><em>Pete’s Lounge | Jul 2018 - Aug 2020</em></p>
+        <ul>
+            <li>Planned and directed cost-effective operations in the Food & Beverage department.</li>
+            <li>Reintroduced the lounge to the market.</li>
+            <li>Created menu plans and managed labor control for profitability.</li>
+        </ul>
+
+        <h3>Server F&B</h3>
+        <p><em>Kempinski Nile | Aug 2019 - Jun 2018</em></p>
+
+        <h3>Server F&B</h3>
+        <p><em>Four Seasons First Residence | Mar 2017 - Jul 2018</em></p>
+    </section>
+
+    <section>
+        <h2 class="section-header">Accomplishments / Certifications</h2>
+        <ul>
+            <li>Financial and Commercial Awareness</li>
+            <li>Product Knowledge</li>
+            <li>Fire Fighting Program</li>
+            <li>Wine & Beer Training (Egy Bav)</li>
+            <li>Professional Management Training in Service Excellence</li>
+            <li>Food Safety Certification Training</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2 class="section-header">Education</h2>
+        <ul>
+            <li><strong>Bachelor's Degree:</strong> Hotel Management (July 2023)</li>
+            <li><strong>Master's Degree:</strong> Hotel Management (Expected June 2024)</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2 class="section-header">Skills</h2>
+        <ul>
+            <li>Property Maintenance</li>
+            <li>Leadership</li>
+            <li>Financial Reporting</li>
+            <li>Crisis Management</li>
+            <li>Employee Relations</li>
+            <li>Budgeting & Forecasting</li>
+            <li>Marketing & Sales</li>
+            <li>Communication</li>
+            <li>Decision Making</li>
+            <li>Inventory Management</li>
+            <li>Guest Satisfaction</li>
+            <li>Safety & Security</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>© 2024 Ahmed Tamer. All rights reserved.</p>
+    </footer>
+</body>
+</html>
